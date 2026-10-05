@@ -1,2 +1,2 @@
-# bpcells_signac_portability
-R package to assist in porting Seurat objects containing BPCells and Signac v2 assays
+# multiome_on_disk
+R package to assist in porting and handling Seurat objects containing BPCells and Signac v2 assays
